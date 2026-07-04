@@ -40,14 +40,37 @@ can drive the whole app.
 
 </td>
 </tr>
+<tr>
+<td width="90" align="center"><img src="https://raw.githubusercontent.com/pounceapps/.github/main/profile/assets/retrocode.png" width="64" alt="RetroCode"></td>
+<td>
+
+### RetroCode
+Code like it's **1980** — a retro IDE with a real **8-bit CPU emulator**, a TRS-80-style
+**BASIC** with a graphics display, a modern multi-language editor, and a built-in **AI tutor**
+that teaches Assembly and BASIC.
+
+</td>
+</tr>
+<tr>
+<td width="90" align="center"><img src="https://raw.githubusercontent.com/pounceapps/.github/main/profile/assets/morselhub.png" width="64" alt="MorselHub"></td>
+<td>
+
+### MorselHub
+Your **AI message hub** — connects **iMessage, RetroCode & webhooks** to Claude and routes
+the replies right back to whoever sent them. Runs locally on your Mac.
+
+</td>
+</tr>
 </table>
 
 ## Install
 
 ```sh
 brew tap pounceapps/tap
-brew install --cask pouncesql   # the SQL client
-brew install --cask pouncepad   # the editor
+brew install --cask pouncesql   # AI-native SQL client
+brew install --cask pouncepad   # AI-drivable editor
+brew install --cask retrocode   # 8-bit Assembly & BASIC IDE
+brew install --cask morselhub   # AI message hub
 ```
 
 Prefer a direct download? Grab the notarized DMGs from **[pounceapps/downloads](https://github.com/pounceapps/downloads)**.
@@ -59,7 +82,7 @@ open to anyone with a GitHub account.
 
 ## Built with
 
-`Wails` · `Go` · `CodeMirror` · `go-mssqldb` · `pgx` · `modernc/sqlite` · `mcp-go` · and a lot of `Claude`
+`Wails` · `Tauri` · `Go` · `Rust` · `CodeMirror` · `pgx` · `mcp-go` · and a lot of `Claude`
 
 <div align="center">
 <sub>Created by <b>Steven S. Sparks</b> · AI development by <b>Claude (Anthropic)</b> · under active development, no warranty</sub>
