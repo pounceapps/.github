@@ -54,7 +54,7 @@ Prefer a direct download? Grab the notarized DMGs from **[pounceapps/downloads](
 
 ## Community
 
-Questions, ideas, or bugs? Open a thread in **[Discussions](https://github.com/pounceapps/downloads/discussions)** —
+Questions, ideas, or bugs? Open a thread in **[Discussions](https://github.com/orgs/pounceapps/discussions)** —
 open to anyone with a GitHub account.
 
 ## Built with
