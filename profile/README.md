@@ -63,6 +63,13 @@ the replies right back to whoever sent them. Runs locally on your Mac.
 </tr>
 </table>
 
+## Learn SQL — free sample databases
+
+New to SQL, or just want fun data to practice on? **[pounceapps/sample-databases](https://github.com/pounceapps/sample-databases)**
+is a free, growing collection of **SQLite** learning databases — Star Wars, Pokémon, World countries,
+Olympic medals, and Marvel & DC characters — each with credits and example queries. Load them with one
+click inside PounceSQL, or use them with any SQLite tool.
+
 ## Install
 
 ```sh
