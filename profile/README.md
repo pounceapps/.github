@@ -63,6 +63,20 @@ the replies right back to whoever sent them. Runs locally on your Mac.
 </tr>
 </table>
 
+## Games
+
+PounceApps is also where Steve's Mac games are built, signed and handed out. The games themselves are
+**[Three Peppers Gaming](https://github.com/Three-Peppers-Gaming)**: Land of Senia (a casual pixel RPG),
+Inside the Mainframe, Santa Fe Trader, Adventure House, Blackjack and Hangman. All free.
+
+```sh
+brew tap pounceapps/games
+brew trust pounceapps/games
+brew install --cask land-of-senia
+```
+
+The full list is in **[pounceapps/homebrew-games](https://github.com/pounceapps/homebrew-games)**.
+
 ## Learn SQL — free sample databases
 
 New to SQL, or just want fun data to practice on? **[pounceapps/sample-databases](https://github.com/pounceapps/sample-databases)**
